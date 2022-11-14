@@ -1,0 +1,31 @@
+{
+  "name": "unit-test-node-js",
+  "version": "1.0.0",
+  "description": "Belajar NodeJs Unit Test",
+  "main": ".src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true,
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triyasmkom/node-js-unit-test.git"
+  },
+  "author": "triyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triyasmkom/node-js-unit-test/issues"
+  },
+  "homepage": "https://github.com/triyasmkom/node-js-unit-test#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
