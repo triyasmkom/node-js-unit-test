@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e9c958a5-0e8d-411e-9e3d-92ac08b58945" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/unit_test_nodeJs.iml" afterDir="false" />
+=======
+    <list default="true" id="e9c958a5-0e8d-411e-9e3d-92ac08b58945" name="Changes" comment="initial">
+      <change afterPath="$PROJECT_DIR$/babel.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/equals.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sum.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> unit test
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2HTqU97yXtZfuJh5bQZHPJx9mmK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HTqU97yXtZfuJh5bQZHPJx9mmK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> unit test
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,9 +46,119 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+=======
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/triyas/data/IBN new/dokumentasi-swikee",
+    "nodejs.jest.jest_package": "/home/triyas/data/Project/BelajarNodeJs/unit_test_nodeJs/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Jest.test toEqual">
+    <configuration default="true" type="JavaScriptTestRunnerJest">
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" />
+      <node-options value="" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/test/sum.test.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test sum function 1 sum(1,2) must be 3" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/sum.test.js" />
+      <test-names>
+        <test-name value="test sum function 1 sum(1,2) must be 3" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test sum function 2 sum(1,2) must be 3" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/sum.test.js" />
+      <test-names>
+        <test-name value="test sum function 2 sum(1,2) must be 3" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test toBe" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/equals.test.js" />
+      <test-names>
+        <test-name value="test toBe" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test toEqual" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/equals.test.js" />
+      <test-names>
+        <test-name value="test toEqual" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.sum.test.js" />
+      <item itemvalue="Jest.test sum function 1 sum(1,2) must be 3" />
+      <item itemvalue="Jest.test sum function 2 sum(1,2) must be 3" />
+      <item itemvalue="Jest.test toBe" />
+      <item itemvalue="Jest.test toEqual" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.test toEqual" />
+        <item itemvalue="Jest.test toBe" />
+        <item itemvalue="Jest.sum.test.js" />
+        <item itemvalue="Jest.test sum function 1 sum(1,2) must be 3" />
+        <item itemvalue="Jest.test sum function 2 sum(1,2) must be 3" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> unit test
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,7 +168,21 @@
       <option name="presentableId" value="Default" />
       <updated>1668319436853</updated>
       <workItem from="1668319438428" duration="282000" />
+<<<<<<< HEAD
     </task>
+=======
+      <workItem from="1668404555884" duration="2857000" />
+      <workItem from="1668408425133" duration="7103000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1668404583471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668404583471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> unit test
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,4 +199,11 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+>>>>>>> unit test
 </project>
